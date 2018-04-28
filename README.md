@@ -25,7 +25,7 @@ An application for Gizwits IoT cloud based on TiJOS, it's applicable for standal
 
 在机智云的开发者平台中新建产品,注意ProductKey和Product Secret将会在代码中用到
 
-![1524896161184](.\img\product.png)
+![1524896161184](./img/product.png)
 
 
 
@@ -33,7 +33,7 @@ An application for Gizwits IoT cloud based on TiJOS, it's applicable for standal
 
 定义产品后， 需要为产品定义数据点，可将例程中TiKit_T800.xlsx定义的数据点导入即可
 
-![1524896263130](.\img\datapoint.png)
+![1524896263130](./img/datapoint.png)
 
 ##钛极OS(TiJOS)应用开发
 接入来即可在TiStudio中进行机智云接入的开发了， 在新建TiJOS应用工程后，将gizwits.jar加入到工程中，将产品的ProductKey和Product Secret填加到代码并定义相应的数据点
