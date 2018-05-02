@@ -168,7 +168,7 @@ public class GizwitsCloudDemo {
 
 		try {
 			
-			//数据管理器
+			//数据点管理器
 			DataPointManager dpm = giz.getDPM();
 
 			//根据数据点定义设置每一个数据点的相应属性
