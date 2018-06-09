@@ -11,7 +11,7 @@ An application for Gizwits IoT cloud based on TiJOS, it's applicable for standal
 
 目前机智云通过自动生成MCU代码的方式大大简化了设备接入的难度，但同时也对想要进行更多复杂度应用开发人员提出了更高的要求，钛极OS(TiJOS)的机智云接入方案从根本上解决这个问题， 用户在系统中定义数据点后，直接在钛极OS(TiJOS)Java代码中进行简单设置即可，无需对硬件底层次了解过多， 即可应对复杂应用。
 
-该安全基于TiKit-T800-STM32F103A型号及传感器DEMO板，基于机智云ESP8266模块的MCU模式。
+该案例基于TiKit-T800-STM32F103A型号及传感器DEMO板，基于机智云ESP8266模块的MCU模式。
 
 
 
